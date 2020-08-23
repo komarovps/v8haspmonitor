@@ -27,3 +27,6 @@
 КонецЦикла;
 
 ```
+
+## Полезные ссылки
+[HaspMonitor + Powershell + Zabbix](https://github.com/zbx-sadman/HASP)
