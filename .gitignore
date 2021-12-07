@@ -1,5 +1,8 @@
 .vscode
 .sonar
 .sonarlint
-examples
+
+examples/nethasp.ini
+tests/fixtures/ПараметрыТестирования.txt
+
 *.ospx
