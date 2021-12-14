@@ -1,0 +1,4 @@
+{
+    "hsmon-path": "./tools/HaspMonitor/HaspMonitor.exe",
+    "nethasp-path": "./examples/nethasp.ini"
+}
