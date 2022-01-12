@@ -41,3 +41,5 @@
 
 ## Полезные ссылки
 [HaspMonitor + Powershell + Zabbix](https://github.com/zbx-sadman/HASP)
+
+[Prometheus экспортер для HASP License Manager](https://github.com/komarovps/v8hasp-exporter)
